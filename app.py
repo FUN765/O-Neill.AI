@@ -16,7 +16,7 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     background: #171717;
-    color: white;
+    color: navy;
     display: flex;
     height: 100vh;
 }
@@ -40,7 +40,7 @@ body {
     border: 1px solid #555;
     border-radius: 10px;
     background: #303030;
-    color: white;
+    color: navy;
     cursor: pointer;
     font-size: 15px;
 }
@@ -124,7 +124,7 @@ body {
     background: transparent;
     border: none;
     outline: none;
-    color: white;
+    color: navy;
     font-size: 16px;
     padding: 10px;
 }
