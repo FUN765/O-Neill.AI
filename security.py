@@ -4,7 +4,7 @@ import re
 # REILLY.AI SECURITY SYSTEM
 # =====================================
 
-class REILLYAISecurity:
+class REILLY.AISecurity:
 
     def __init__(self):
 
